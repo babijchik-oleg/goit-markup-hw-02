@@ -1,4 +1,4 @@
- *
+ 
  /*font-family: "Raleway", sans-serif;
  font-family: "Roboto", sans-serif;*/
     body {
@@ -202,15 +202,6 @@ color: #434455;
 .page-footer {
     background-color: #2e2f42;
 }
-.logo {
-font-weight: 700;
-font-size: 18px;
-line-height: 1.16667;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
-}
-
 .footer-text {
 font-weight: 400;
 font-size: 16px;
